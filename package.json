@@ -1,0 +1,27 @@
+{
+  "name": "@sayan-dev/react-boilerplate",
+  "version": "0.2.0",
+  "description": "A npm package to generate react folder structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sayan-dev/react-boilerplate.git"
+  },
+  "author": "Sayanta Bhattacharjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sayan-dev/react-boilerplate/issues"
+  },
+  "keywords": [
+    "boilerplate",
+    "template",
+    "@sayan-dev"
+  ],
+  "homepage": "https://github.com/Sayan-dev/react-boilerplate#readme",
+  "devDependencies": {
+    "ghpagedeploy": "^0.1.0"
+  }
+}
